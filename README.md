@@ -8,9 +8,10 @@
 ## Stack
 
 <div style={display:flex; gap:50px;}>
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54">
+  
 
   
 ## Baekjoon
