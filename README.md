@@ -15,6 +15,9 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" /> 
   <br>
    <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white">
+    <img src="https://img.shields.io/badge/react_native-61DAFB.svg?style=flat&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
 </div>
 
 ## Baekjoon
