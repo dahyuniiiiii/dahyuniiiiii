@@ -55,13 +55,13 @@
 <a href="https://github.com/dahyuniiiiii">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=dahyuniiiiii&show_icons=true&theme=react"
-    width=49% 
+    width=40% 
   />
 </a>
 <a href="https://github.com/dahyuniiiiii">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahyuniiiiii&layout=compact"
-   width=49% 
+   width=35% 
   />
 </a>
 
