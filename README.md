@@ -29,7 +29,8 @@
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-       <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
+      <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
+      <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -42,6 +43,7 @@
       <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" />
       <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" />
     </td>
   </tr>
 </table>
