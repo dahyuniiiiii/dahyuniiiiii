@@ -6,9 +6,6 @@
   
 
 
-### 🧩 Baekjoon
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=imcute0703123)](https://solved.ac/imcute0703123)  
 
 </p>
 
@@ -24,6 +21,9 @@
 🚀 상태 관리와 체계적인 구조 설계를 통해 의존성을 줄이고 책임을 명확히 분리하는 개발 방식을 중요하게 생각합니다.
 
 
+### 🧩 Baekjoon
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=imcute0703123)](https://solved.ac/imcute0703123)  
 
 
 
