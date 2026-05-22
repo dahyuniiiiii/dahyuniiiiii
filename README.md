@@ -6,7 +6,9 @@
   
 ### ✨ My Links 
 
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@imcute0703123/posts)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com](https://www.linkedin.com/in/dahyunii)) 
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@imcute0703123/posts)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dahyunii) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/156_.d/)
+
+
 ### 🧩 Baekjoon
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=imcute0703123)](https://solved.ac/imcute0703123)  
