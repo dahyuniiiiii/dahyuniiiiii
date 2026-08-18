@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9d5e5,50:e6b2c6,100:e6a9b2&height=320&section=header&text=Welcome%20to%20Dahyun's%20World%20🎀&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Frontend%20Developer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9d5e5,50:e6b2c6,100:e6a9b2&height=320&section=header&text=Welcome%20to%20Dahyun's%20World%20🎀&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer&animation=twinkling" width="100%" />
 
 <div align="center">
   
@@ -14,12 +14,11 @@
 
 ### 👑 About Me
 
-🌐 사용자 문제를 기술로 해결하며, 안정적이고 유지보수에 강한 코드를 지향하는 개발자입니다.
+🌐 AI 개발회사에서 일하며 다양한 AI 기술을 활용하고 경험하고 있습니다.
 
-🛠️ 명확한 구조 설계를 통해 처음 보는 사람도 흐름과 로직을 쉽게 이해할 수 있는 코드를 추구합니다.
+🛠️ 소프트웨어 아키텍처와 구조 설계에 대한 이해를 바탕으로 복잡한 문제를 체계적으로 분석하고 해결합니다.
 
-🚀 상태 관리와 체계적인 구조 설계를 통해 의존성을 줄이고 책임을 명확히 분리하는 개발 방식을 중요하게 생각합니다.
-
+🚀 AI 모델과 시스템의 최적화와 고도화에 관심이 많으며, 관련 기술을 꾸준히 공부하고 있습니다.
 
 ### 🧩 Baekjoon
 
